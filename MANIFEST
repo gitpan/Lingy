@@ -14,5 +14,8 @@ lib/Lingy/AST.pm
 lib/Lingy/Base.pm
 lib/Lingy/Command.pm
 lib/Lingy/Compiler.pm
+lib/Lingy/Compiler/YAML.pm
+lib/Lingy/Emitter.pm
+lib/Lingy/Emitter/YAML.pm
 t/000-compile-modules.t
 t/release-pod-syntax.t
