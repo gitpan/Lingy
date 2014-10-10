@@ -18,4 +18,6 @@ lib/Lingy/Compiler/YAML.pm
 lib/Lingy/Emitter.pm
 lib/Lingy/Emitter/YAML.pm
 t/000-compile-modules.t
+t/PigLatin.lingy.yaml
+t/parse-yaml.t
 t/release-pod-syntax.t

@@ -34,6 +34,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Pegex" : "0",
             "YAML::XS" : "0",
             "perl" : "v5.8.1"
          }
@@ -51,6 +52,6 @@
          "web" : "https://github.com/ingydotnet/lingy-pm"
       }
    },
-   "version" : "0.0.2"
+   "version" : "0.0.3"
 }
 
